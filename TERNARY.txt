@@ -1,0 +1,32 @@
+TERNARY OPETORS
+
+
+wap to find greateer no among  a ND B
+
+int a=10;
+int b=20;
+
+if(a>b)
+sysout("a is greater");
+
+else
+sysout("b is greater");
+
+
+
+String result = a > b? "a is greater" : "b is greater"'
+System.out.println(result);
+
+-----------
+
+int r=100;
+int p=2;
+
+String c= ((r%p)==0) ?'even : "odd";
+System.out.println(c)
+
+---------------------------------------------
+
+:>>>>else
+
+
